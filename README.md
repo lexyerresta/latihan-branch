@@ -1,2 +1,3 @@
 # latihan-branch
-Seru kok belajar github
+Belajar github seru kok
+
