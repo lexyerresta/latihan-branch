@@ -1,2 +1,2 @@
 # latihan-branch
-cobaa
+Seru kok belajar github
