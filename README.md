@@ -1,3 +1,4 @@
 # latihan-branch
 Belajar github seru kok
-Another commit
+Ceritanya ini commit baru
+
